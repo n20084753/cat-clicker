@@ -1,3 +1,4 @@
+//app.js
 (function(){
 	var data = {
 		current_cat_index : 0,
