@@ -1,7 +1,7 @@
 (function(){
 	var data = {
 		current_cat_index : 0,
-		cats : [{'name':'Andy','src':'cat.jpg','click_count':0},{'name':'Dave','src':'cat-dual.jpg','click_count':0}]
+		cats : [{'name':'Andy','src':'cat.jpg','click_count':0},{'name':'Dave','src':'cat-dual.jpg','click_count':0},{'name':'Andy','src':'cat.jpg','click_count':0},{'name':'Dave','src':'cat-dual.jpg','click_count':0},{'name':'Andy','src':'cat.jpg','click_count':0}]
 	};
 
 	var controller = {
